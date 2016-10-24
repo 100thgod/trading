@@ -1,11 +1,9 @@
 import sqlite3
-from getMarketData import *
+from data_setup import *
 
 TIME_FORMAT = '%Y-%m-%d %H:%M:%S'
 
-DB_DIR = '/Users/armtiger/Documents/Data/'
-
-def writeDataToDB(asset, mode):
+def writeDataToDB(asset, mode, db):
 
     # Set up data variables and check mode:
     mode = mode.lower()
@@ -25,11 +23,11 @@ def writeDataToDB(asset, mode):
     df_flds = [getFldName(x) for x in db_flds]
 
     # Set up database objects
-    conn = sqlite3.connect(fullfile(DB_DIR, 'finance_db.sqlite3'))
+    conn = sqlite3.connect(db)
     cur = conn.cursor()
 
     # Create table if not arleady produced
-    cur.execute('''CREATE TABLE {} (
+    cur.execute('''CREATE TABLE IF NOT EXISTS {} (
     Date TEXT UNIQUE NOT NULL PRIMARY KEY, {})
     '''.format(tableName, reduce(lambda x,y: x+', '+y, map(lambda x,y: x+' '+y, db_flds, types))))
 
