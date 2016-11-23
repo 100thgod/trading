@@ -1,0 +1,19 @@
+11/14/16,,,,,,,,,
+Description,Quantity,Currency,Price,Market_value,Weight,Avg_Unit_Cost,Book_cost,Unrealised_Gain,
+Cash, ,CAD, ,14724.8,22.00%, ,14724.8,, 
+Stocks, ,CAD, ,29288.44,44.00%, ,31335,"-2,046.56 (-7 %)", 
+BOMBARDIER 5.476% S3 PFD,300,CAD,8.4,2520,4.00%,6.02,1805.88,714.12 (40 %),https://invest.hsbc.ca/trading/stocks.aspx?market=CA&symbol=BBD.PR.D&AccountId=6Y0R1YS
+GENERAL MOTORS COMPANY,55,CAD,45.06,2478.36,4.00%,40.54,2229.62,248.74 (11 %),https://invest.hsbc.ca/trading/stocks.aspx?market=CA&symbol=GMM.U&AccountId=6Y0R1YS
+ALBEMARLE CORP,30,CAD,104.35,3130.58,5.00%,108.8,3263.91,-133.33 (-4 %),https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=ALB&AccountId=6Y0R1YS
+AMAZON COM INC,2,CAD,973.5,1947,3.00%,908.73,1817.45,129.55 (7 %),https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=AMZN&AccountId=6Y0R1YS
+FIRST SOLAR INC,30,CAD,44.78,1343.3,2.00%,78.76,2362.8,"-1,019.50 (-43 %)",https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=FSLR&AccountId=6Y0R1YS
+ALPHABET INC CL-A,2,CAD,1019.85,2039.69,3.00%,645.21,1290.41,749.28 (58 %),https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=GOOGL&AccountId=6Y0R1YS
+VANECK VECTORS RUSSIA ETF,300,CAD,24.7,7409.09,11.00%,25.11,7533.35,-124.26 (-2 %),https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=RSX&AccountId=6Y0R1YS
+ISHARES SILVER TRUST,128,CAD,21.65,2771.26,4.00%,36.43,4662.44,"-1,891.18 (-41 %)",https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=SLV&AccountId=6Y0R1YS
+TESLA MOTORS INC,23,CAD,245.62,5649.16,9.00%,276.92,6369.14,-719.98 (-11 %),https://invest.hsbc.ca/trading/stocks.aspx?market=US&symbol=TSLA&AccountId=6Y0R1YS
+Fixed Income, ,CAD, ,16552,25.00%, ,16552,, 
+EFT GIC 2.6% 21FB19A,6570,CAD,100,6570,10.00%,1,6570,,https://invest.hsbc.ca/trading/bonds.aspx?cusip=&AccountId=6Y0R1YS&quantity=6570
+EFT GIC 1.52% 27OC17A,5000,CAD,100,5000,8.00%,1,5000,,https://invest.hsbc.ca/trading/bonds.aspx?cusip=&AccountId=6Y0R1YS&quantity=5000
+NBC GIC 2.45% 5FB18CA,4982,CAD,100,4982,8.00%,1,4982,,https://invest.hsbc.ca/trading/bonds.aspx?cusip=&AccountId=6Y0R1YS&quantity=4982
+Mutual Funds, ,CAD, ,5415.44,8.00%, ,5239.98,175.46 (3 %), 
+RBC INV S/A-A$U/NL/N'FRAC,399.959,CAD,13.54,5415.44,8.00%,13.1,5239.98,175.46 (3 %),https://invest.hsbc.ca/trading/funds.aspx?symbol=RBF2014&market=Fund&AccountId=6Y0R1YS
